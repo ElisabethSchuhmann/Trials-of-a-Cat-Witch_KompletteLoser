@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Data/Managed/Assembly-CSharp.dll</key>
 		<data>
-		DUmjtprhBjgnH1l6mStqCBllTRo=
+		qwri5U1HcJxrN5ApwQmuD/EEtoQ=
 		</data>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
 		<data>
@@ -418,35 +418,23 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		cDsiwT5ukzBBDQKIc6mcmEzywFw=
+		+Y/w/+VBcwFZYDY8myB5Zbm4MPU=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
-		F9aL9EFQuZ6eMy6nsnFst4MumMk=
+		0Gtgik2KgZmYMPx7WMXgY4XXn54=
 		</data>
 		<key>Resources/Data/level0</key>
 		<data>
-		V/L93coHUn83werWcc7+us3Q/B8=
-		</data>
-		<key>Resources/Data/level0.resS</key>
-		<data>
-		v9+qKQKm2RI/b/Q4X9FbRqkYrEw=
+		JsydR+0TueZaarGsajXpgpDP9K4=
 		</data>
 		<key>Resources/Data/level1</key>
 		<data>
-		NNCD5RpCetghVHiMIhyMzpt3PVU=
-		</data>
-		<key>Resources/Data/level1.resS</key>
-		<data>
-		v9+qKQKm2RI/b/Q4X9FbRqkYrEw=
+		9cDjm6abykUF3E8jX6iNPCDwxeQ=
 		</data>
 		<key>Resources/Data/level2</key>
 		<data>
-		fMTM0DT25EfETN//VB0VDTnBOvU=
-		</data>
-		<key>Resources/Data/level2.resS</key>
-		<data>
-		v9+qKQKm2RI/b/Q4X9FbRqkYrEw=
+		BV+n/jKX6RbbZoYAZquUu6Tqy6Y=
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
@@ -677,7 +665,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SU6tNr4guSBBSAlRwWvu+T5IrlzOsRSAwHIj0xV3btE=
+			jubZD3KZhelHa2NkaY9qr95POW0Lz2r/V0ev0cQSHfU=
 			</data>
 		</dict>
 		<key>Resources/Data/Managed/Mono.Security.dll</key>
@@ -1398,56 +1386,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WThsWhDtUwUuSuCpcZoHkL1aksFfeYfmpNa+qTSsMh4=
+			tO7YZQDw+ScOKOgEIcrZzA8B5bNp7K4SdEukLdeQJbo=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MjLWs5j1iouvHQfLRzwqvB+y7D87wcB7+vcbW/K3nBw=
+			/6+4m1CsAK3ZQGEPBzjpn7E/yjE+rLc5uQohU6uN99Q=
 			</data>
 		</dict>
 		<key>Resources/Data/level0</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			62eENpc6k4o5mXTSh1A7UKzMk/dSts+87JYGHMJz9IM=
-			</data>
-		</dict>
-		<key>Resources/Data/level0.resS</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kG6IEu7gjXXrPhlyzHCAbcPfWefTiA+/5mEFIfK+ztA=
+			RYf0eYdRKTDm5CEd4BE28R8qYmJ7gfqawEeVoVET2pY=
 			</data>
 		</dict>
 		<key>Resources/Data/level1</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G8gywooh07uMO9jo2I2qAK6JGb6WAeTG9VTUbc/PkU0=
-			</data>
-		</dict>
-		<key>Resources/Data/level1.resS</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kG6IEu7gjXXrPhlyzHCAbcPfWefTiA+/5mEFIfK+ztA=
+			nfWIcuE0EHVKUNnCkL91qErRKbJm6bVTkLjNsIlPaWw=
 			</data>
 		</dict>
 		<key>Resources/Data/level2</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xlnYuAzySOgm0if6x5ugu4RdVC7wxuCDNh/e3whKxWE=
-			</data>
-		</dict>
-		<key>Resources/Data/level2.resS</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kG6IEu7gjXXrPhlyzHCAbcPfWefTiA+/5mEFIfK+ztA=
+			PTT+CRiO/3zL2UOKm9LmXfRMaKAD5VyqrKicu548Hxk=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets</key>
